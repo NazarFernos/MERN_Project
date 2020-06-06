@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "nazar fernos",
+    "mongoUrl": "mongodb+srv://nazar:1234@cluster0-ka6fw.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
